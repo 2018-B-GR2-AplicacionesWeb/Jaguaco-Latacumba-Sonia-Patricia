@@ -32,4 +32,7 @@ console.log(adrian );
 var adrianJSON={
     "llave":"valor"
 };
+if(0){
+
+}
 
