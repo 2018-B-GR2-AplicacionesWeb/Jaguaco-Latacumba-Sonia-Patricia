@@ -147,20 +147,16 @@ function ejercicioDeArchivosPromesa(arregloStrings) {
                     (string, indice) => {
                         const archivo = `${indice}-${string}.txt`;
                         const contenido = string;
-                        fs.writeFile(archivo,
-                            contenido,
-                            (err) =>
-                                    nombreArchivo: archivo,
-                                    contenidoArchivo: contenido,
-                                    error: err
 
-                                arregloRespuestas.push(respuesta);
+
+
+
                                 const tamanoRespuestas = arregloRespuestas.length;
 
                             });
                     }
                 );
-        }
-    );
+
+
 
 }
