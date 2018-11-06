@@ -130,7 +130,7 @@ const arregloStrings = ['A', 'B', 'C'];
 
 ejercicio(arregloStrings,
     (arregloRespuestas) => {
-        console.log("me va salir la romesa",arregloRespuestas);
+        console.log("",arregloRespuestas);
     });
 
 
@@ -147,16 +147,23 @@ function ejercicioDeArchivosPromesa(arregloStrings) {
                     (string, indice) => {
                         const archivo = `${indice}-${string}.txt`;
                         const contenido = string;
-
-
-
-
+                        fs.writeFile(archivo,
+                            contenido,
+                            (err) => {
+                                const respuesta = {
+                                    nombreArchivo: archivo,
+                                    contenidoArchivo: contenido,
+                                    error: err
+                                };
+                                arregloRespuestas.push(respuesta);
                                 const tamanoRespuestas = arregloRespuestas.length;
-
+                                if (tamanoRespuestas === arregloStrings.length) {
+                                    resolve(arregloRespuestas)
+                                }
                             });
                     }
                 );
-
-
+        }
+    );
 
 }
