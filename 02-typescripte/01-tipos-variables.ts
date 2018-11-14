@@ -60,4 +60,5 @@ const usuario:UsuarioInterface = {
     nombre:'Adrian'
 };
 
-// $ tsc nombre-archivo.ts --target es2017}
+// $ tsc nombre-archivo.ts --target es2017
+

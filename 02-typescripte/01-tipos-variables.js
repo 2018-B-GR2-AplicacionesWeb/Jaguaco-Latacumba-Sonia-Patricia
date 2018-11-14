@@ -1,32 +1,38 @@
-//
-const nombre = "Adrian";
-const edad = 21.2;
-const casado = false;
+//  01-tipos-variables.ts
+// DUCK TYPING -> DUCK
+let nombre = 'Adrian';
+nombre = '1';
+nombre = [];
+let edad = 21.2;
+edad = '12';
+let casado = false;
+casado = true;
+casado = null;
+casado = undefined;
+const arregloNumeros = [1, 2, 3];
+arregloNumeros.push(1);
 const adrian = {
-    nombre: "Adrian",
-    edad1: 2,
-    cassdo: false,
-    fecha: new Date(),
-    saludar: () => {
-        return "";
+    nombre: 'Vicente',
+    // edad:21,
+    // casado:false,
+    // fechaNacimiento: new Date(),
+    saludar: (nombre) => {
+        return '';
     }
 };
-//adrian.estado(activo?);
-const arregloNumero = [1, 2, 3, 4];
-arregloNumero.push(3);
-arregloNumero.push("kk");
-let edad1 = 21., tsc;
-01 - tipos - variables.ts--;
-target;
-es2017;
-3;
-function saludar(nombre, aellido, ...otrasfunciones) {
-    return "hola";
+adrian.apellido = 'Eguez';
+let fecha = new Date();
+fecha = new Date('2018-10-01');
+const saludarDos = (nombre) => {
+    return '';
+};
+function saludar(nombre, apellido, ...otrosNombres) {
+    return 'hola';
 }
-//let sal=<number>saludar("s",aellido: "dd",otrasfunciones(1,2,3));
-//const saludardos{};
-class Usuario {
+let respuestaSaludar = saludar('Adrian', 'Eguez', 1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 7, 5, 4, 3, 2, 1, 1, 12, 2, 3, 4, 5, 67, 8, 9, 0, 0, 2);
+class UsuarioClase {
 }
 const usuario = {
-    nombre: "Adrian"
+    nombre: 'Adrian'
 };
+// $ tsc nombre-archivo.ts --target es2017
