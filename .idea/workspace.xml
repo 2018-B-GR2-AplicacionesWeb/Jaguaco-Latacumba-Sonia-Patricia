@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4ddf6ee-0c24-4074-ab94-4b7af3084a10" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-typescripte/01-tipos-variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-typescripte/01-tipos-variables.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-typescripte/01-tipos-variables.ts" beforeDir="false" afterPath="$PROJECT_DIR$/02-typescripte/01-tipos-variables.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-typescripte/02-observables.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-typescripte/02-observables.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-typescripte/02-observables.ts" beforeDir="false" afterPath="$PROJECT_DIR$/02-typescripte/02-observables.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/.prettierrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/nodemon-debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/nodemon-debug.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/nodemon.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/nodemon.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/src/app.controller.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/src/app.controller.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/src/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/src/app.controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/src/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/src/app.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/src/app.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/test/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/test/app.e2e-spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/test/jest-e2e.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/test/jest-e2e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/tsconfig.spec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestjs/hola-nest/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/tslint.json" afterDir="false" />
-    </list>
+    <list default="true" id="d4ddf6ee-0c24-4074-ab94-4b7af3084a10" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -81,14 +59,14 @@
           <entry key="json" value="86" />
           <entry key="md" value="85" />
           <entry key="ts" value="1148" />
-          <entry key="txt" value="101" />
+          <entry key="txt" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="86" />
           <entry key="JavaScript" value="6707" />
-          <entry key="PLAIN_TEXT" value="544" />
+          <entry key="PLAIN_TEXT" value="555" />
           <entry key="TypeScript" value="813" />
           <entry key="XML" value="14" />
         </counts>
@@ -104,47 +82,7 @@
     <favorites_list name="Jaguaco-Latacumba-Sonia-Patricia" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-typescripte/01-tipos-variables.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-typescripte/01-tipos-variables.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="64" selection-start-line="64" selection-end-line="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02-typescripte/02-observables.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="97" column="6" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-typescripte/02-observables.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -284,18 +222,6 @@
               <item name="Jaguaco-Latacumba-Sonia-Patricia" type="462c0819:PsiDirectoryNode" />
               <item name="02-typescripte" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="462c0819:PsiDirectoryNode" />
-              <item name="02-typescripte" type="462c0819:PsiDirectoryNode" />
-              <item name="01-tipos-variables.ts" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="462c0819:PsiDirectoryNode" />
-              <item name="02-typescripte" type="462c0819:PsiDirectoryNode" />
-              <item name="02-observables.ts" type="620a8d5e:NestingTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -388,7 +314,7 @@
       <workItem from="1541530420034" duration="7339000" />
       <workItem from="1541617933559" duration="4029000" />
       <workItem from="1542139306467" duration="2581000" />
-      <workItem from="1542154051685" duration="1182000" />
+      <workItem from="1542154051685" duration="1747000" />
     </task>
     <task id="LOCAL-00001" summary="Cambio 4">
       <created>1538598150474</created>
@@ -460,11 +386,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542154199529</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="observables">
+      <created>1542155356304</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1542155356304</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46379000" />
+    <option name="totallyTimeSpent" value="46944000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -477,7 +410,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49435028" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" sideWeight="0.50611246" side_tool="true" weight="0.24330357" />
@@ -541,7 +473,8 @@
     <MESSAGE value="promise" />
     <MESSAGE value="promise cambio" />
     <MESSAGE value="cambios" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambios" />
+    <MESSAGE value="observables" />
+    <option name="LAST_COMMIT_MESSAGE" value="observables" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Sonia.md">
@@ -697,23 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02-typescripte/01-tipos-variables.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-typescripte/01-tipos-variables.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-typescripte/02-observables.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4">
@@ -723,8 +639,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02-typescripte/02-observables.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
+        <state relative-caret-position="1649">
           <caret line="97" column="6" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-typescripte/01-tipos-variables.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-typescripte/01-tipos-variables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
