@@ -136,7 +136,7 @@ ejercicio(arregloStrings,
 
 
 
-function ejercicioDeArchivosPromesa(arregloStrings) {
+function ejercicios(arregloStrings) {
 
     return new Promise(
         (resolve,reject)=>{
