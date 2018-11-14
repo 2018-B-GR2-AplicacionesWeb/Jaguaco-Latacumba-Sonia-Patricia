@@ -4,13 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/02-typescripte/02-observables.ts" line="1" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4ddf6ee-0c24-4074-ab94-4b7af3084a10" name="Default Changelist" comment="promise cambio rest">
-      <change afterPath="$PROJECT_DIR$/02-typescripte/01-tipos-variables.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-typescripte/02-observables.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="d4ddf6ee-0c24-4074-ab94-4b7af3084a10" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01Javascript/05-nodejs/07-texto.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01Javascript/05-nodejs/07-texto.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01Javascript/07-callback-propio.js" beforeDir="false" afterPath="$PROJECT_DIR$/01Javascript/07-callback-propio.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,8 +29,9 @@
           <entry key="project.open.time.42" value="2" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.75" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -68,21 +64,21 @@
           <entry key="json" value="86" />
           <entry key="md" value="85" />
           <entry key="ts" value="1148" />
-          <entry key="txt" value="87" />
+          <entry key="txt" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="86" />
           <entry key="JavaScript" value="6707" />
-          <entry key="PLAIN_TEXT" value="530" />
+          <entry key="PLAIN_TEXT" value="544" />
           <entry key="TypeScript" value="813" />
           <entry key="XML" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="TypeScriptServerServiceImpl" value="3" />
+          <entry key="TypeScriptServerServiceImpl" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -91,33 +87,7 @@
     <favorites_list name="Jaguaco-Latacumba-Sonia-Patricia" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nestjs/hola-nest/tslint.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nestjs/hola-nest/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="77" selection-start-line="77" selection-end-line="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nestjs/hola-nest/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-663" />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -231,7 +201,7 @@
       <path value="$PROJECT_DIR$/nestjs/hola-nest/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -360,6 +330,7 @@
       <workItem from="1541530420034" duration="7339000" />
       <workItem from="1541617933559" duration="4029000" />
       <workItem from="1542139306467" duration="2581000" />
+      <workItem from="1542154051685" duration="218000" />
     </task>
     <task id="LOCAL-00001" summary="Cambio 4">
       <created>1538598150474</created>
@@ -424,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541531315825</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="cambios">
+      <created>1542154199529</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542154199529</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -483,7 +461,8 @@
     <MESSAGE value="callback" />
     <MESSAGE value="promise" />
     <MESSAGE value="promise cambio" />
-    <option name="LAST_COMMIT_MESSAGE" value="promise cambio" />
+    <MESSAGE value="cambios" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Sonia.md">
@@ -636,12 +615,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nestjs/hola-nest/tslint.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/nestjs/hola-nest/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/nestjs/hola-nest/README.md">
       <provider selected="true" editor-type-id="text-editor">
@@ -650,9 +625,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nestjs/hola-nest/package.json">
+    <entry file="file://$PROJECT_DIR$/nestjs/hola-nest/tslint.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-663" />
+        <state relative-caret-position="272">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
       </provider>
     </entry>
   </component>
