@@ -1,11 +1,9 @@
-
-const a="a";
-let b="b";
-var c="";
-function  f() {
-
-}
-class Usuario{}
-interface usuarioInterface {
+export const a = 'a';
+export let b = 'b';
+var c = 'c';
+export function f() {
 
 }
+export class Usuario{}
+export interface UsuarioInterface{}
+

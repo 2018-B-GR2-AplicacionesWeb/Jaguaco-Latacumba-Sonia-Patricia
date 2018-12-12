@@ -1,0 +1,27 @@
+<h1> <%= typeof usuario !== "undefined" ? 'Actualizar' : 'Crear' %>     Usuario</h1>
+<p>*** un nuevo usuario.</p>
+<form   action="/Usuario/****-usuario"
+        method="POST">
+    <div>
+        <label for="nombre">Nombre</label>
+        <input id="nombre"
+               value=""
+               name="nombre" type="text">
+    </div>
+
+    <div>
+        <label for="biografia">Biografía</label>
+        <textarea name="biografia"
+                  value=""
+                  id="biografia"
+                  cols="30"
+                  rows="3">
+        </textarea>
+    </div>
+    <button type="reset">Resetear formulario</button>
+    <button>Crear Usuario</button>
+</form>
+
+<a href="/Usuario/inicio">
+    <button>Regresar</button>
+</a

@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/DEber/TiendaOnlin.ts" line="60" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d4ddf6ee-0c24-4074-ab94-4b7af3084a10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03-http/hola-nest/src/micodigo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/Archivo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/Tienda.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/articulos" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/examples/Acciones.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/examples/Productos.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/examples/crear.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/examples/menu.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/examples/pedidos.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/examples/productos.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/examples/tiena.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/royecto/bdd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/royecto/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/royecto/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/royecto/royecto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-http/videos/src/usuario.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-http/videos/views/crear-usuario.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-http/videos/views/inicio.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEber/Acciones.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEber/TiendaOnlin.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEber/bdd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEber/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEber/objetos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Examen-Jaguaco/data/desarrllo.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-typescripte/02-observables.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-typescripte/02-observable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-typescripte/02-observables.ts" beforeDir="false" afterPath="$PROJECT_DIR$/02-typescripte/02-observable.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-typescripte/01-tipos-variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-typescripte/01-tipos-variables.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03-http/hola-nest/src/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/src/app.controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-http/hola-nest/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-http/hola-nest/src/micodigo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/src/micodigo.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEber/Archivo.ts" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,11 +34,18 @@
     <session id="128438081">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.102" value="1" />
+          <entry key="project.open.time.147" value="1" />
+          <entry key="project.open.time.166" value="1" />
+          <entry key="project.open.time.167" value="1" />
           <entry key="project.open.time.174" value="1" />
+          <entry key="project.open.time.224" value="1" />
           <entry key="project.open.time.262" value="1" />
+          <entry key="project.open.time.264" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.41" value="1" />
@@ -51,11 +55,14 @@
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.716" value="1" />
           <entry key="project.open.time.74" value="1" />
           <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.812" value="1" />
           <entry key="project.open.time.89" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -63,52 +70,63 @@
           <entry key="articu" value="1" />
           <entry key="articulos" value="1" />
           <entry key="baseUI" value="1" />
+          <entry key="css" value="3" />
+          <entry key="ejs" value="3" />
           <entry key="gitignore" value="2" />
           <entry key="gitimore" value="1" />
           <entry key="gitnore" value="1" />
-          <entry key="js" value="51" />
-          <entry key="json" value="11" />
-          <entry key="md" value="3" />
+          <entry key="html" value="1" />
+          <entry key="js" value="63" />
+          <entry key="json" value="17" />
+          <entry key="md" value="9" />
           <entry key="medicinas" value="1" />
+          <entry key="objetos" value="1" />
           <entry key="pedidos" value="1" />
-          <entry key="ts" value="41" />
+          <entry key="ts" value="68" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="11" />
-          <entry key="JavaScript" value="51" />
-          <entry key="PLAIN_TEXT" value="18" />
-          <entry key="TypeScript" value="38" />
+          <entry key="CSS" value="3" />
+          <entry key="EJS" value="3" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="17" />
+          <entry key="JavaScript" value="63" />
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="TypeScript" value="65" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="articu" value="8" />
+          <entry key="css" value="1" />
+          <entry key="ejs" value="228" />
           <entry key="gitignore" value="19" />
           <entry key="gitimore" value="4" />
           <entry key="gitnore" value="14" />
-          <entry key="js" value="6825" />
-          <entry key="json" value="176" />
+          <entry key="js" value="6951" />
+          <entry key="json" value="178" />
           <entry key="md" value="85" />
-          <entry key="ts" value="2600" />
-          <entry key="txt" value="112" />
+          <entry key="ts" value="3432" />
+          <entry key="txt" value="123" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="176" />
-          <entry key="JavaScript" value="6825" />
-          <entry key="PLAIN_TEXT" value="563" />
-          <entry key="TypeScript" value="2265" />
+          <entry key="CSS" value="1" />
+          <entry key="EJS" value="228" />
+          <entry key="JSON" value="178" />
+          <entry key="JavaScript" value="6951" />
+          <entry key="PLAIN_TEXT" value="574" />
+          <entry key="TypeScript" value="3097" />
           <entry key="XML" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="TypeScriptServerServiceImpl" value="10" />
+          <entry key="TypeScriptServerServiceImpl" value="20" />
         </counts>
       </usages-collector>
     </session>
@@ -119,76 +137,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DEber/articulos">
+        <entry file="file://$PROJECT_DIR$/03-http/videos/src/app.controller.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DEber/Tienda.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5287">
-              <caret line="311" column="34" selection-start-line="311" selection-start-column="34" selection-end-line="311" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/royecto/royecto.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="396">
+              <caret line="140" column="1" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#0#171#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/royecto/bdd.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/royecto/main.js">
+        <entry file="file://$PROJECT_DIR$/03-http/videos/src/mi-codigo.ts">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/royecto/main.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3077">
-              <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/royecto/royecto.js">
+        <entry file="file://$PROJECT_DIR$/03-http/hola-nest/src/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#0#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DEber/Archivo.ts">
+        <entry file="file://$PROJECT_DIR$/03-http/videos/views/inicio.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+            <state relative-caret-position="935">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-http/videos/views/crear-usuario.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03-http/videos/src/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-http/videos/src/usuario.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-http/hola-nest/src/app.controller.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-http/hola-nest/src/app.service.ts">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -211,10 +240,20 @@
       <find>contenidoArchivo</find>
       <find>admin</find>
       <find>Admin</find>
-      <find>Usuario</find>
       <find>login</find>
       <find>sesion</find>
       <find>respuestas</find>
+      <find>Usuario</find>
+      <find>preguntarOpcionesMenu</find>
+      <find>opcionesRespuesta</find>
+      <find>ejecutarAcccion</find>
+      <find>usuario</find>
+      <find>respuestaBDD</find>
+      <find>guardarBaseDeDatos</find>
+      <find>guardarBDD</find>
+      <find>bdd</find>
+      <find>preguntaUsuario</find>
+      <find>BDD</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\DELL\Documents\GitHub\Jaguaco-Latacumba-Sonia-Patricia\royecto\node_modules</dir>
@@ -226,30 +265,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01Javascript/05-nodejs/util/util.js" />
-        <option value="$PROJECT_DIR$/01Javascript/05-nodejs/runtime.js" />
-        <option value="$PROJECT_DIR$/01Javascript/05-nodejs/app.js" />
-        <option value="$PROJECT_DIR$/01Javascript/05-nodejs/06-texto.txt" />
-        <option value="$PROJECT_DIR$/01Javascript/05-nodejs/node_modules/06-callbacks.js" />
-        <option value="$PROJECT_DIR$/01Javascript/05-nodejs/.gitnore" />
-        <option value="$PROJECT_DIR$/01Javascript/05-nodejs/07-callback-propio.js" />
-        <option value="$PROJECT_DIR$/01Javascript/06-callback.js" />
-        <option value="$PROJECT_DIR$/01Javascript/08-promesas.js" />
-        <option value="$PROJECT_DIR$/01Javascript/07-texto.txt" />
-        <option value="$PROJECT_DIR$/01Javascript/07-callback-propio.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/nestjs/hola-nest/README.md" />
-        <option value="$PROJECT_DIR$/02-typescripte/01-tipos-variables.js" />
-        <option value="$PROJECT_DIR$/02-typescripte/01-tipos-variables.ts" />
-        <option value="$PROJECT_DIR$/02-typescripte/02-observables.js" />
-        <option value="$PROJECT_DIR$/02-typescripte/02-observables.ts" />
-        <option value="$PROJECT_DIR$/DEber/rerquirer.ts" />
-        <option value="$PROJECT_DIR$/DEber/baseUI" />
-        <option value="$PROJECT_DIR$/DEber/bottom-bar.ts" />
-        <option value="$PROJECT_DIR$/DEber/baseUI.ts" />
-        <option value="$PROJECT_DIR$/DEber/inquirer.ts" />
-        <option value="$PROJECT_DIR$/DEber/searator.ts" />
-        <option value="$PROJECT_DIR$/DEber/package-lock.json" />
         <option value="$PROJECT_DIR$/DEber/list.js" />
         <option value="$PROJECT_DIR$/DEber/menu.js" />
         <option value="$PROJECT_DIR$/DEber/Menu.ts" />
@@ -261,11 +276,8 @@
         <option value="$PROJECT_DIR$/DEber/productos.ts" />
         <option value="$PROJECT_DIR$/DEber/Productos.json" />
         <option value="$PROJECT_DIR$/DEber/pedidos.ts" />
-        <option value="$PROJECT_DIR$/DEber/Acciones.ts" />
         <option value="$PROJECT_DIR$/DEber/menu.ts" />
-        <option value="$PROJECT_DIR$/03-http/hola-nest/src/micodigo.ts" />
         <option value="$PROJECT_DIR$/03-http/hola-nest/src/main.ts" />
-        <option value="$PROJECT_DIR$/03-http/hola-nest/src/app.controller.ts" />
         <option value="$PROJECT_DIR$/Proyecto/medi/medicina.ts" />
         <option value="$PROJECT_DIR$/DEber/Tiend.js" />
         <option value="$PROJECT_DIR$/DEber/Articulos.txt" />
@@ -277,11 +289,44 @@
         <option value="$PROJECT_DIR$/royecto/main.js" />
         <option value="$PROJECT_DIR$/royecto/bdd.json" />
         <option value="$PROJECT_DIR$/royecto/main.ts" />
+        <option value="$PROJECT_DIR$/DEber/bdd.js" />
+        <option value="$PROJECT_DIR$/DEber/bdd1.js" />
+        <option value="$PROJECT_DIR$/DEber/test.ts" />
+        <option value="$PROJECT_DIR$/../../web/Web 2018 B GR1_files/response-page.min.css" />
+        <option value="$PROJECT_DIR$/Examen-Jaguaco/data/people.json" />
+        <option value="$PROJECT_DIR$/Examen-Jaguaco/data/people.js" />
+        <option value="$PROJECT_DIR$/Examen-Jaguaco/data/Main.js" />
+        <option value="$PROJECT_DIR$/Examen-Jaguaco/01-arreglos/README.md" />
+        <option value="$PROJECT_DIR$/Examen-Jaguaco/data/Main.ts" />
+        <option value="$PROJECT_DIR$/Examen-Jaguaco/data/principal.js" />
+        <option value="$PROJECT_DIR$/Examen-Jaguaco/data/desarrllo.ts" />
+        <option value="$PROJECT_DIR$/DEber/TiendaOnline.ts" />
+        <option value="$PROJECT_DIR$/DEber/objetos" />
+        <option value="$PROJECT_DIR$/DEber/Acciones.ts" />
+        <option value="$PROJECT_DIR$/DEber/main.ts" />
+        <option value="$PROJECT_DIR$/DEber/observables/bdd.json" />
+        <option value="$PROJECT_DIR$/DEber/bdd.json" />
+        <option value="$PROJECT_DIR$/DEber/TiendaOnlin.ts" />
+        <option value="$PROJECT_DIR$/03-http/videos/src/main.ts" />
+        <option value="$PROJECT_DIR$/03-http/hola-nest/src/micodigo.ts" />
+        <option value="$PROJECT_DIR$/03-http/hola-nest/src/app.controller.ts" />
+        <option value="$PROJECT_DIR$/03-http/videos/views/inicio.ejs" />
+        <option value="$PROJECT_DIR$/03-http/videos/src/app.module.ts" />
+        <option value="$PROJECT_DIR$/03-http/videos/package.json" />
+        <option value="$PROJECT_DIR$/03-http/videos/src/usuario.service.ts" />
+        <option value="$PROJECT_DIR$/03-http/videos/views/crear-usuario.ejs" />
+        <option value="$PROJECT_DIR$/03-http/videos/src/app.controller.ts" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -755,8 +800,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="577" />
-    <option name="y" value="2" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="794" />
     <option name="height" value="700" />
   </component>
@@ -808,7 +853,40 @@
             <path>
               <item name="Jaguaco-Latacumba-Sonia-Patricia" type="b2602c69:ProjectViewProjectNode" />
               <item name="Jaguaco-Latacumba-Sonia-Patricia" type="462c0819:PsiDirectoryNode" />
-              <item name="DEber" type="462c0819:PsiDirectoryNode" />
+              <item name="03-http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="462c0819:PsiDirectoryNode" />
+              <item name="03-http" type="462c0819:PsiDirectoryNode" />
+              <item name="hola-nest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="462c0819:PsiDirectoryNode" />
+              <item name="03-http" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="462c0819:PsiDirectoryNode" />
+              <item name="03-http" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="462c0819:PsiDirectoryNode" />
+              <item name="03-http" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jaguaco-Latacumba-Sonia-Patricia" type="462c0819:PsiDirectoryNode" />
+              <item name="03-http" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -820,23 +898,24 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="LET" />
-    <property name="last_opened_file_path" value="D:/examles/deber" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/examen" />
     <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
     <property name="ts.external.directory.path" value="C:\Users\DELL\Documents\GitHub\Jaguaco-Latacumba-Sonia-Patricia\03-http\hola-nest\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\DELL\Documents\GitHub\Jaguaco-Latacumba-Sonia-Patricia\DEber" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Documents\GitHub\Jaguaco-Latacumba-Sonia-Patricia\DEber" />
+      <recent name="C:\Users\DELL\Documents\GitHub\Jaguaco-Latacumba-Sonia-Patricia\DEber\observables" />
       <recent name="C:\Users\DELL\Documents\GitHub\Jaguaco-Latacumba-Sonia-Patricia\DEber\examples" />
       <recent name="C:\Users\DELL\Documents\GitHub\Jaguaco-Latacumba-Sonia-Patricia\TESY" />
       <recent name="C:\Users\DELL\Documents\GitHub\Jaguaco-Latacumba-Sonia-Patricia" />
-      <recent name="C:\Users\DELL\Documents\GitHub\Jaguaco-Latacumba-Sonia-Patricia\01Javascript" />
-      <recent name="C:\Users\DELL\Documents\GitHub\Jaguaco-Latacumba-Sonia-Patricia\01Javascript\05-nodejs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Documents\GitHub\Jaguaco-Latacumba-Sonia-Patricia\DEber" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -915,7 +994,17 @@
       <workItem from="1542735141210" duration="10772000" />
       <workItem from="1542828067914" duration="2729000" />
       <workItem from="1543348955399" duration="2722000" />
-      <workItem from="1543367542106" duration="1925000" />
+      <workItem from="1543367542106" duration="5856000" />
+      <workItem from="1543413515142" duration="19755000" />
+      <workItem from="1543516279007" duration="696000" />
+      <workItem from="1543607907157" duration="1587000" />
+      <workItem from="1543794337919" duration="8168000" />
+      <workItem from="1543860973685" duration="770000" />
+      <workItem from="1543891006600" duration="2259000" />
+      <workItem from="1543932700360" duration="10540000" />
+      <workItem from="1544556104046" duration="4999000" />
+      <workItem from="1544642331967" duration="186000" />
+      <workItem from="1544643426209" duration="4120000" />
     </task>
     <task id="LOCAL-00001" summary="Cambio 4">
       <created>1538598150474</created>
@@ -994,11 +1083,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542155356304</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="observables 5">
+      <created>1543369763517</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1543369763517</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99834000" />
+    <option name="totallyTimeSpent" value="156845000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1011,6 +1107,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49435028" visible="true" weight="0.22916667" />
       <window_info id="Structure" order="1" sideWeight="0.50611246" side_tool="true" weight="0.24330357" />
@@ -1025,34 +1122,13 @@
       <window_info anchor="bottom" id="TODO" order="7" weight="0.3295082" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30983606" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21639344" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="12" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49435028" visible="true" weight="0.22916667" />
-      <window_info id="Structure" order="1" sideWeight="0.50611246" side_tool="true" weight="0.24330357" />
-      <window_info id="Favorites" order="2" sideWeight="0.50564975" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3295082" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.30327868" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32786885" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.3295082" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30983606" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.3295082" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1061,9 +1137,9 @@
         <option value="$PROJECT_DIR$/03-http/hola-nest/src/app.controller.spec.js" />
         <option value="$PROJECT_DIR$/03-http/hola-nest/src/app.service.js" />
         <option value="$PROJECT_DIR$/03-http/hola-nest/src/app.controller.js" />
-        <option value="$PROJECT_DIR$/DEber/Archivo.js" />
+        <option value="$PROJECT_DIR$/Examen-Jaguaco/data/desarrllo.js" />
         <option value="$PROJECT_DIR$/02-typescripte/01-tipos-variables.js" />
-        <option value="$PROJECT_DIR$/royecto/royecto.js" />
+        <option value="$PROJECT_DIR$/DEber/main.js" />
       </list>
     </option>
   </component>
@@ -1081,205 +1157,188 @@
     <MESSAGE value="promise cambio" />
     <MESSAGE value="cambios" />
     <MESSAGE value="observables" />
-    <option name="LAST_COMMIT_MESSAGE" value="observables" />
+    <MESSAGE value="observables 5" />
+    <MESSAGE value="metodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="metodos" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/DEber/main.ts</url>
+          <line>318</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/DEber/TiendaOnlin.ts</url>
+          <line>66</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01Javascript/07-texto.txt">
+    <entry file="file://$PROJECT_DIR$/royecto/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/royecto/royecto.js" />
+    <entry file="file://$PROJECT_DIR$/royecto/main.ts" />
+    <entry file="file://$PROJECT_DIR$/royecto/main.js" />
+    <entry file="file://$PROJECT_DIR$/royecto/bdd.json" />
+    <entry file="file://$PROJECT_DIR$/royecto/royecto.ts" />
+    <entry file="file://$PROJECT_DIR$/DEber/articulos">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01Javascript/08-promesas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01Javascript/07-callback-propio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="138" column="19" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-http/hola-nest/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-http/hola-nest/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-http/hola-nest/tslint.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-typescripte/01-tipos-variables.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/baseUI.js" />
-    <entry file="file://$PROJECT_DIR$/DEber/bottom-bar.ts" />
-    <entry file="file://$PROJECT_DIR$/DEber/searator.ts" />
-    <entry file="file://$PROJECT_DIR$/DEber/inquirer.ts" />
-    <entry file="file://$PROJECT_DIR$/DEber/baseUI.ts" />
-    <entry file="file://$PROJECT_DIR$/DEber/inquirer.js" />
-    <entry file="file://$PROJECT_DIR$/DEber/lista.js" />
-    <entry file="file://$PROJECT_DIR$/DEber/lista.ts" />
-    <entry file="file://$PROJECT_DIR$/DEber/list.js" />
-    <entry file="file://$PROJECT_DIR$/DEber/list.ts" />
-    <entry file="file://$PROJECT_DIR$/02-typescripte/01-tipos-variables.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2278">
-          <caret line="134" column="6" selection-start-line="134" selection-start-column="6" selection-end-line="134" selection-end-column="6" />
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02-typescripte/02-observable.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="80" column="24" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-typescripte/02-observable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-http/hola-nest/src/micodigo.ts">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-http/hola-nest/src/app.controller.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-http/hola-nest/src/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-http/hola-nest/src/app.controller.ts">
+    <entry file="file://$PROJECT_DIR$/02-typescripte/01-tipos-variables.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="-120">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-http/hola-nest/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Proyecto/medi/medicina.ts" />
-    <entry file="file://$PROJECT_DIR$/DEber/Articulos.txt" />
-    <entry file="file://$PROJECT_DIR$/Proyecto/medi/DataBase/medicinas" />
-    <entry file="file://$PROJECT_DIR$/DEber/examples/Acciones.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/examples/Acciones.js">
+    <entry file="file://$PROJECT_DIR$/../../web/Web 2018 B GR1_files/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/examples/menu.js">
+    <entry file="file://$USER_HOME$/Downloads/response-page.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3808" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../web/Web 2018 B GR1.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/examples/Productos.json">
+    <entry file="file://$PROJECT_DIR$/../../web/Web 2018 B GR1_files/response-page.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret column="43307" selection-end-column="338342" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEber/bdd.js" />
+    <entry file="file://$PROJECT_DIR$/DEber/main.js" />
+    <entry file="file://$PROJECT_DIR$/DEber/bdd1.js" />
+    <entry file="file://$PROJECT_DIR$/DEber/test.ts" />
+    <entry file="file://$PROJECT_DIR$/01Javascript/08-promesas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-426">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Javascript/03-funciones.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Javascript/04-operadores.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Javascript/02-arreglos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen-Jaguaco/data/Main.ts" />
+    <entry file="file://$PROJECT_DIR$/Examen-Jaguaco/data/principal.js" />
+    <entry file="file://$PROJECT_DIR$/Examen-Jaguaco/data/people.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen-Jaguaco/01-arreglos/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEber/Acciones.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen-Jaguaco/data/desarrllo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2499" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen-Jaguaco/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen-Jaguaco/data/desarrllo.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="291" column="13" lean-forward="true" selection-start-line="291" selection-start-column="13" selection-end-line="291" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEber/objetos">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="27" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/examples/productos.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/examples/productos.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/examples/pedidos.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="93" column="40" selection-start-line="93" selection-start-column="40" selection-end-line="93" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/examples/pedidos.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="96" column="6" lean-forward="true" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/examples/crear.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="44" column="5" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="44" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/examples/tiena.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="32" column="13" selection-start-line="26" selection-start-column="11" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/examples/menu.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-578">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/Tienda.js">
+    <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/articulos">
+    <entry file="file://$PROJECT_DIR$/DEber/TiendaOnlin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEber/bdd.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+          <caret selection-end-column="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEber/TiendaOnlin.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-http/videos/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-http/videos/src/app.service.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-http/videos/dist/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEber/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3536">
+          <caret line="208" column="5" selection-start-line="208" selection-start-column="5" selection-end-line="208" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1290,49 +1349,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DEber/Archivo.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/royecto/bdd.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/royecto/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/royecto/royecto.js">
+    <entry file="file://$PROJECT_DIR$/03-http/hola-nest/src/main.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/royecto/royecto.ts">
+    <entry file="file://$PROJECT_DIR$/03-http/hola-nest/src/micodigo.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-http/hola-nest/src/app.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#113#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/royecto/main.js">
+    <entry file="file://$PROJECT_DIR$/03-http/hola-nest/src/app.service.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/royecto/main.ts">
+    <entry file="file://$PROJECT_DIR$/03-http/hola-nest/src/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3077">
-          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-http/videos/src/mi-codigo.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-http/videos/views/inicio.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-http/videos/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-http/videos/src/usuario.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-http/videos/views/crear-usuario.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-http/videos/src/app.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="140" column="1" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-http/videos/src/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

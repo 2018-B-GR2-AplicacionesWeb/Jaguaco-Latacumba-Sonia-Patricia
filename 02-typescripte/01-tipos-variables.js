@@ -1,38 +1,45 @@
 //  01-tipos-variables.ts
 // DUCK TYPING -> DUCK
-let nombre = 'Adrian';
+var nombre = 'Adrian';
 nombre = '1';
 nombre = [];
-let edad = 21.2;
+var edad = 21.2;
 edad = '12';
-let casado = false;
+var casado = false;
 casado = true;
 casado = null;
 casado = undefined;
-const arregloNumeros = [1, 2, 3];
+var arregloNumeros = [1, 2, 3];
 arregloNumeros.push(1);
-const adrian = {
+var adrian = {
     nombre: 'Vicente',
     // edad:21,
     // casado:false,
     // fechaNacimiento: new Date(),
-    saludar: (nombre) => {
+    saludar: function (nombre) {
         return '';
     }
 };
 adrian.apellido = 'Eguez';
-let fecha = new Date();
+var fecha = new Date();
 fecha = new Date('2018-10-01');
-const saludarDos = (nombre) => {
+var saludarDos = function (nombre) {
     return '';
 };
-function saludar(nombre, apellido, ...otrosNombres) {
+function saludar(nombre, apellido) {
+    var otrosNombres = [];
+    for (var _i = 2; _i < arguments.length; _i++) {
+        otrosNombres[_i - 2] = arguments[_i];
+    }
     return 'hola';
 }
-let respuestaSaludar = saludar('Adrian', 'Eguez', 1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 7, 5, 4, 3, 2, 1, 1, 12, 2, 3, 4, 5, 67, 8, 9, 0, 0, 2);
-class UsuarioClase {
-}
-const usuario = {
+var respuestaSaludar = saludar('Adrian', 'Eguez', 1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 7, 5, 4, 3, 2, 1, 1, 12, 2, 3, 4, 5, 67, 8, 9, 0, 0, 2);
+var UsuarioClase = /** @class */ (function () {
+    function UsuarioClase() {
+    }
+    return UsuarioClase;
+}());
+var usuario = {
     nombre: 'Adrian'
 };
 // $ tsc nombre-archivo.ts --target es2017
