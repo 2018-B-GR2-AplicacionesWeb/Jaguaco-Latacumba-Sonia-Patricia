@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4ddf6ee-0c24-4074-ab94-4b7af3084a10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03-http/videos/src/usuario.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-http/videos/views/crear-usuario.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-http/videos/views/inicio.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/Acciones.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/TiendaOnlin.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/bdd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEber/objetos" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examen-Jaguaco/data/desarrllo.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-typescripte/01-tipos-variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-typescripte/01-tipos-variables.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-http/hola-nest/src/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/src/app.controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-http/hola-nest/src/micodigo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-http/hola-nest/src/micodigo.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEber/Archivo.ts" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -1004,7 +990,7 @@
       <workItem from="1543932700360" duration="10540000" />
       <workItem from="1544556104046" duration="4999000" />
       <workItem from="1544642331967" duration="186000" />
-      <workItem from="1544643426209" duration="4120000" />
+      <workItem from="1544643426209" duration="4417000" />
     </task>
     <task id="LOCAL-00001" summary="Cambio 4">
       <created>1538598150474</created>
@@ -1090,11 +1076,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543369763517</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="metodos">
+      <created>1544648212545</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1544648212545</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156845000" />
+    <option name="totallyTimeSpent" value="157142000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
